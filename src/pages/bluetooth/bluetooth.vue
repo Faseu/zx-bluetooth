@@ -243,7 +243,7 @@
   };
 </script>
 
-<style  scoped>
+<style scoped lang="scss">
   .main {
     background: #f2f2f2;
     padding: 20rpx;
